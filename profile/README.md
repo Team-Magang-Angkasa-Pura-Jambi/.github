@@ -1,10 +1,7 @@
-# ✈️🎫 Sentinel 🎫✈️
-<p>Platform ini merupakan tempat beli dan booking tiket penerbangan secara online, baik one way (sekali
-penerbangan) dan round trip (pulang pergi). Platform ini membuka dan menyediakan berbagai jenis
-penerbangan domestik dan mancanegara. Flow / alur platform dibebaskan berdasarkan kreasi tim final
-project.
-Terdapat dua peran User yaitu berperan sebagai admin dan login sebagai buyer. Buyer dapat
-mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
+# ⚡️ Sentinel: Platform Manajemen Utilitas Cerdas ⚡️
+<p>Selamat datang di repositori Proyek Magang "Sentinel". Proyek ini adalah sebuah Platform Manajemen Utilitas Cerdas Berbasis Web yang dirancang untuk mentransformasi proses monitoring konsumsi sumber daya (listrik, air, dan BBM) di Bandar Udara Sultan Thaha, Jambi.
+
+Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kesalahan dengan solusi yang otomatis, akurat, dan proaktif. Dengan fitur unggulan seperti input data via Optical Character Recognition (OCR), dasbor analitik, deteksi anomali, dan peramalan berbasis machine learning, Sentinel berfungsi sebagai pusat intelijen untuk mendorong efisiensi operasional dan penghematan biaya.</p>
 
 <h2>Introduction 👋</h2>
 <p>Hi guys! We are from FSW x BEJS TEAM 6, nice to meet you:  </p>
@@ -72,26 +69,9 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
-        <tr>
-          <td>Izzaturrachmi</td>
-          <td>Back End Javascript</td>
-          <td>Politeknik Negeri Jakarta</td>
-          <td>
-              <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-          </td>
-        </tr>
-        <tr>
-          <td>Naufal Ady Saputro</td>
-          <td>Back End Javascript</td>
-          <td>Universitas Gunadarma</td>
-          <td>
-              <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-          </td>
-        </tr>
-      </tbody>
+    </tbody>
     </table>
 
 <h2>Themes Project 🌐</h2>
-<p>E-Flight Ticket Platform (Benchmark from Turkish Airlines)</p>
+<p>E-Solusi Manajemen Utilitas Cerdas Berbasis Data untuk Efisiensi Operasional Bandara)</p>
+
