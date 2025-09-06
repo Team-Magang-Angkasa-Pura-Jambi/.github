@@ -9,7 +9,7 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
       <thead>
         <tr>
           <td width="20%">Name</td>
-          <td width="20%">Learning Path</td>
+          <td width="20%">Role</td>
           <td width="20%">University</td>
           <td width="25%">Contact</td>
         </tr>
