@@ -18,7 +18,7 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
         <tr>
           <td>insyra inayah putri</td>
           <td>annalyst</td>
-          <td>UPN Veteran Jatim</td>
+          <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -27,7 +27,7 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
         <tr>
           <td>Nyimas Azzahra Nurssyidahnafisah</td>
           <td>analyst</td>
-          <td>Universitas Gunadarma</td>
+          <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -45,7 +45,7 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
         <tr>
           <td>Anna Febriane Angelica</td>
           <td>Design</td>
-          <td>Universitas Kanjuruhan Malang</td>
+          <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/david-cristian-putra-sutanto-313676269/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -54,7 +54,7 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
         <tr>
           <td>Muhammad Nofriza</td>
           <td>Testing</td>
-          <td>Universitas Mikroskil</td>
+          <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/devon-loen-a67513326/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -63,7 +63,7 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
         <tr>
           <td>Elfira</td>
           <td>Testing</td>
-          <td>Universitas Nurdin Hamzah</td>
+          <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
