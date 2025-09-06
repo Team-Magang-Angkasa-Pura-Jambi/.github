@@ -17,7 +17,7 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
       <tbody>
         <tr>
           <td>insyra inayah putri</td>
-          <td>annalyst</td>
+          <td>analyst</td>
           <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
