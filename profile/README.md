@@ -1,4 +1,4 @@
-# ✈️🎫 Tiketku 🎫✈️
+# ✈️🎫 Sentinel 🎫✈️
 <p>Platform ini merupakan tempat beli dan booking tiket penerbangan secara online, baik one way (sekali
 penerbangan) dan round trip (pulang pergi). Platform ini membuka dan menyediakan berbagai jenis
 penerbangan domestik dan mancanegara. Flow / alur platform dibebaskan berdasarkan kreasi tim final
@@ -19,8 +19,8 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
       </thead>
       <tbody>
         <tr>
-          <td>Iko Indra Gunawan</td>
-          <td>Full Stack Web</td>
+          <td>insyra inayah putri</td>
+          <td>annalyst</td>
           <td>UPN Veteran Jatim</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
@@ -28,8 +28,8 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
           </td>
         </tr>
         <tr>
-          <td>Risky Pratama</td>
-          <td>Full Stack Web</td>
+          <td>Nyimas Azzahra Nurssyidahnafisah</td>
+          <td>analyst</td>
           <td>Universitas Gunadarma</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
@@ -46,8 +46,8 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
           </td>
         </tr>
         <tr>
-          <td>David Cristian Putra Sutanto</td>
-          <td>Full Stack Web</td>
+          <td>Anna Febriane Angelica</td>
+          <td>Design</td>
           <td>Universitas Kanjuruhan Malang</td>
           <td>
               <a href="https://www.linkedin.com/in/david-cristian-putra-sutanto-313676269/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
@@ -55,8 +55,8 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
           </td>
         </tr>
         <tr>
-          <td>Devon Marvellous Loen</td>
-          <td>Back End Javascript</td>
+          <td>Muhammad Nofriza</td>
+          <td>Testing</td>
           <td>Universitas Mikroskil</td>
           <td>
               <a href="https://www.linkedin.com/in/devon-loen-a67513326/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
@@ -64,8 +64,8 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
           </td>
         </tr>
         <tr>
-          <td>Fajri Arvandi</td>
-          <td>Back End Javascript</td>
+          <td>Elfira</td>
+          <td>Testing</td>
           <td>Universitas Nurdin Hamzah</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
