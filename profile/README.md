@@ -4,7 +4,7 @@
 Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kesalahan dengan solusi yang otomatis, akurat, dan proaktif. Dengan fitur unggulan seperti input data via Optical Character Recognition (OCR), dasbor analitik, deteksi anomali, dan peramalan berbasis machine learning, Sentinel berfungsi sebagai pusat intelijen untuk mendorong efisiensi operasional dan penghematan biaya.</p>
 
 <h2>Introduction 👋</h2>
-<p>Hi guys! We are from FSW x BEJS TEAM 6, nice to meet you:  </p>
+<p>Hi guys! We are from Angkasa Pura DJB Intership, nice to meet you:  </p>
     <table align="center">
       <thead>
         <tr>
@@ -16,8 +16,8 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
       </thead>
       <tbody>
         <tr>
-          <td>insyra inayah putri</td>
-          <td>analyst</td>
+          <td>insyra Insyra Inayah Putri</td>
+          <td>Analyst</td>
           <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
@@ -26,7 +26,7 @@ Sistem ini bertujuan untuk menggantikan proses pencatatan manual yang rentan kes
         </tr>
         <tr>
           <td>Nyimas Azzahra Nurssyidahnafisah</td>
-          <td>analyst</td>
+          <td>Analyst</td>
           <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
